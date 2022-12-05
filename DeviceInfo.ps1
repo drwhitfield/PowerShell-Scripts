@@ -12,6 +12,7 @@
 .NOTES
     Version:    1.0
     Author:     Donald Whitfield
+    Contact:    donald.r.whitfield@jci.com
     Created:    12-04-2022
     Purpose:    Automate collection of data necessary for IR investigations
 
